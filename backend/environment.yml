@@ -1,0 +1,42 @@
+name: django-react-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=4.5=1_gnu
+  - asgiref=3.4.1=pyhd8ed1ab_0
+  - astroid=2.6.6=py38h06a4308_0
+  - autopep8=1.5.7=pyhd3eb1b0_0
+  - ca-certificates=2021.10.26=h06a4308_2
+  - certifi=2021.10.8=py38h06a4308_0
+  - django=3.2.9=pyhd8ed1ab_0
+  - djangorestframework=3.12.4=pyhd8ed1ab_0
+  - gunicorn=20.1.0=py38h578d9bd_1
+  - isort=5.9.3=pyhd3eb1b0_0
+  - lazy-object-proxy=1.6.0=py38h27cfd23_0
+  - ld_impl_linux-64=2.35.1=h7274673_9
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.3.0=h5101ec6_17
+  - libgomp=9.3.0=h5101ec6_17
+  - libstdcxx-ng=9.3.0=hd4cf53a_17
+  - mccabe=0.6.1=py38_1
+  - ncurses=6.3=heee7806_1
+  - openssl=1.1.1l=h7f8727e_0
+  - pip=21.2.4=py38h06a4308_0
+  - pycodestyle=2.7.0=pyhd3eb1b0_0
+  - pylint=2.9.6=py38h06a4308_1
+  - python=3.8.12=h12debd9_0
+  - python_abi=3.8=2_cp38
+  - pytz=2021.3=pyhd8ed1ab_0
+  - readline=8.1=h27cfd23_0
+  - setuptools=58.0.4=py38h06a4308_0
+  - sqlite=3.36.0=hc218d9a_0
+  - sqlparse=0.4.2=pyhd8ed1ab_0
+  - tk=8.6.11=h1ccaba5_0
+  - toml=0.10.2=pyhd3eb1b0_0
+  - typing_extensions=3.10.0.2=pyha770c72_0
+  - wheel=0.37.0=pyhd3eb1b0_1
+  - wrapt=1.12.1=py38h7b6447c_1
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
